@@ -1,0 +1,11 @@
+{
+  "name": "vulnerable-node",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "4.16.1",
+    "mysql": "2.17.1",
+    "lodash": "4.17.20",
+    "child_process": "1.0.2",
+    "xss": "0.3.3"  // Outdated version vulnerable to bypasses
+  }
+}
